@@ -241,3 +241,5 @@ Distributed under the MIT License. See [***`LICENSE`***][license-url] for more i
 [vscode-down]:http://bit.ly/VSCodeDown
 [pycharm-down]:http://bit.ly/PycharmDown
 [setup-anaconda]:http://bit.ly/setupConda
+## Update
+This project was modified and improved by Abhishek Kumar.
