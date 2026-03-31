@@ -1,4 +1,8 @@
-<h1 align="center">Plant-Disease-Detection-and-Solution</h1>
+<h1 align="center">Smart Crop Disease Detection System</h1>
+<p align="center">
+Author: Abhishek Kumar <br>
+B.Tech CSE, VIT Bhopal
+</p>
 <div align="center" width="100%">
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
@@ -7,7 +11,7 @@
 </div>
 
 
-<p align="center">Project on Plant Disease detection and Solutions using Image Classification technique.</p>
+<p align="center">A deep learning based system to detect plant diseases from leaf images and suggest solutions. Improved with better preprocessing and model tuning.</p>
 <br>
 
 <div align="center" width="100%">
